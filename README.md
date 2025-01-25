@@ -22,7 +22,7 @@ If you're using Git, you can clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/tree-visualizer.git
+git clone https://github.com/user18121/Binary-Search-Tree-webiste.git
 Alternatively, download the project as a ZIP file and extract it.
 Open the Project in Your Browser:
 
