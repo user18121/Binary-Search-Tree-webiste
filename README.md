@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/744fa6ad-e3cd-4afc-9ef6-7e62c70c8697)Binary Search Tree (BST), Red-Black Tree (RBT), and AVL Tree Visualizer
+Binary Search Tree (BST), Red-Black Tree (RBT), and AVL Tree Visualizer
 A simple and interactive visualizer that demonstrates the inner workings of three different types of binary trees: Binary Search Tree (BST), Red-Black Tree (RBT), and AVL Tree. This web application lets you visualize the insertion, deletion, search, and rotation operations, with animations and real-time feedback.
 
 Features
